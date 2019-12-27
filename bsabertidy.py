@@ -2,7 +2,7 @@ from os import walk, rename, path
 import json
 
 
-BSABER_FILE_PATH = 'H:\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels'
+BSABER_FILE_PATH = 'C:/YOUR/DIR/HERE'
 
 
 def run():
