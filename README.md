@@ -6,3 +6,9 @@ Change [`BSABER_FILE_PATH`](https://github.com/IVIURRAY/Beat-Saber-SongTidy/blob
 Then run the script `python bsabertidy` from the command line or PyCharm.
 
 N.B - Run at your own risk.
+
+## Before
+![](https://github.com/IVIURRAY/Beat-Saber-SongTidy/blob/master/media/before.jpeg)
+
+## After
+![](https://github.com/IVIURRAY/Beat-Saber-SongTidy/blob/master/media/after.jpeg)
